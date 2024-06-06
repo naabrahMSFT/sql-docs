@@ -398,6 +398,6 @@ To contribute to the Azure SQL documentation, see the [Docs contributor guide](/
 
 ## Related content
 
-- For a list of SQL Managed Instance updates and improvements, see [SQL Managed Instance service updates](https://azure.microsoft.com/updates/?product=sql-database&query=sql%20managed%20instance).
+- For a list of SQL Managed Instance updates and improvements, see [SQL Managed Instance service updates](https://azure.microsoft.com/updates/?product=sql-database&query=sql%20managed%20instance) <= incorrect link.
 
 - For updates and improvements to all Azure services, see [Service updates](https://azure.microsoft.com/updates).
